@@ -1,3 +1,6 @@
+# Task One Submission
+
+
 # 📝 Smart Notes Manager
 
 ## Overview
