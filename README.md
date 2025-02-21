@@ -22,10 +22,5 @@ Smart Notes Manager is a simple command-line application for creating and managi
 
 
 
-## Installation & Running the Program
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/YourUsername/notes-manager.git
-
 
 
